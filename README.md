@@ -1,6 +1,6 @@
 
 # Virtual Pen
-> Virtual pen enables you to write on your using webcam and a coloured pen.
+> Virtual pen enables you to write on your screen using webcam and a coloured pen.
 
 ---
 
