@@ -8,7 +8,7 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
+- [Output](#Output)
 
 
 ---
@@ -17,14 +17,17 @@ In this project we will first detect the color of the pen that you are using to 
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Python
+- Open CV
 
 [Back To The Top](#read-me-template)
 
 ---
 
-## How To Use
+## Output
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60354122/97113006-834ff080-170d-11eb-80ca-dd5071e234f3.gif)
+
+---
 
 
 
